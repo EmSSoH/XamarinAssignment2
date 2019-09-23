@@ -1,0 +1,15 @@
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\bin\Debug\netstandard2.0\coat.deps.json
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\bin\Debug\netstandard2.0\coat.dll
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\bin\Debug\netstandard2.0\coat.pdb
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\TextToS.xaml.g.cs
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\vibrationPage.xaml.g.cs
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\coat.csproj.CoreCompileInputs.cache
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\coat.AssemblyInfoInputs.cache
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\coat.AssemblyInfo.cs
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\coat.dll
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\coat.pdb
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\coat.csprojAssemblyReference.cache
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\Shake.xaml.g.cs
