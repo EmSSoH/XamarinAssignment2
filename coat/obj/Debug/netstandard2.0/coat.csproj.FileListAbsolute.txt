@@ -13,3 +13,4 @@ C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coa
 C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\coat.pdb
 C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\coat.csprojAssemblyReference.cache
 C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\Shake.xaml.g.cs
+C:\Users\Magnus West Madsen\Documents\Visual Studio 2017\Projects\AppAssign2\coat\obj\Debug\netstandard2.0\UDPSender.xaml.g.cs

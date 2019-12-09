@@ -14,6 +14,7 @@
             <Button Text="vibrate" Clicked="ChangeToVPage"/>
             <Button Text="TextToS" Clicked="ChangeToTPage"/>
             <Button Text="Shake" Clicked="ChangeToShakePage"/>
+            <Button Text="UDP Sender" Clicked="ChangeToUDPPage"/>
         </StackLayout>
         <!-- Place new controls here -->
         <Label x:Name="LabelLevel"/>

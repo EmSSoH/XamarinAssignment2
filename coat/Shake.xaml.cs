@@ -19,14 +19,14 @@ namespace coat
 			InitializeComponent ();
 		}
 
-        protected override async void OnAppearing()
+        protected override void OnAppearing()
         {
             Accelerometer.ShakeDetected += Accelerometer_ShakeDetected;
 
             Accelerometer.Start(SensorSpeed.Game);
         }
 
-        protected override async void OnDisappearing()
+        protected override void OnDisappearing()
         {
             Accelerometer.ShakeDetected -= Accelerometer_ShakeDetected;
 

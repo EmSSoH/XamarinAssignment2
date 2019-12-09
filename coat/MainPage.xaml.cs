@@ -123,5 +123,10 @@ namespace coat
         {
             Navigation.PushAsync(new Shake());
         }
+
+        private void ChangeToUDPPage(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new UDPSender());
+        }
     }
 }

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="coat.UDPSender">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="UDP Sender. IP>Port>Data"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+            <Entry Placeholder="IP" x:Name="IP" ></Entry>
+            <Entry Placeholder="Port" x:Name="Port"></Entry>
+            <Entry Placeholder="Data" x:Name="Data"></Entry>
+            <Button Text="Send" Clicked="SendPacket"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
